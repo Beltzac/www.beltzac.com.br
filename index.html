@@ -4,21 +4,70 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-    <title>br.com.thalitaneres</title>
+    <title>Thalita Neres</title>
     <base href="/" />
     <link href="css/bootstrap/bootstrap.min.css" rel="stylesheet" />
     <link href="css/app.css" rel="stylesheet" />
     <link rel="icon" type="image/png" href="favicon.png" />
     <link href="br.com.thalitaneres.styles.css" rel="stylesheet" />
+    <style>
+        /* This CSS is specific to the current HTML.
+            Note that this snippet only contains the necessary changes and not the full Blazor app template */
+        .loading-section {
+            text-align: center;
+            height: 80vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+            .loading-section h2 {
+                color: #00b5dc;
+            }
+
+        .loader-dot {
+            height: 20px;
+            width: 20px;
+            border-radius: 50%;
+            background-color: #4A4A4A;
+            display: inline-block;
+            -webkit-animation: grow 2.1s infinite ease-in-out both;
+            animation: grow 2.1s infinite ease-in-out both;
+        }
+
+            .loader-dot.dot1 {
+                -webkit-animation-delay: -0.96s;
+                animation-delay: -0.96s;
+            }
+
+            .loader-dot.dot2 {
+                -webkit-animation-delay: -0.48s;
+                animation-delay: -0.48s;
+            }
+
+        @-webkit-keyframes grow {
+            0%, 80%, 100% {
+                -webkit-transform: scale(0)
+            }
+
+            40% {
+                -webkit-transform: scale(1.0)
+            }
+        }
+    </style>
 </head>
 
 <body>
     <div id="app">
-        <svg class="loading-progress">
-            <circle r="40%" cx="50%" cy="50%" />
-            <circle r="40%" cx="50%" cy="50%" />
-        </svg>
-        <div class="loading-progress-text"></div>
+
+        <div class="loading-section">
+            <div class="loader mt-5">
+                <div class="loader-dot dot1"></div>
+                <div class="loader-dot dot2"></div>
+                <div class="loader-dot dot3"></div>
+            </div>
+        </div>
+
     </div>
 
     <div id="blazor-error-ui">
