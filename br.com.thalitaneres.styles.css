@@ -162,3 +162,18 @@ main[b-at0zntskkp] {
         background-color: var(--background-color);
     }
 }
+
+.social-icons[b-ynffvfhjuo] {
+    display: flex;
+    justify-content: space-around;
+}
+    
+    .social-icons .nav-link[b-ynffvfhjuo] {
+        font-size: 1.2rem;
+        transition: color 0.2s;
+    }
+
+        .social-icons .nav-link:hover[b-ynffvfhjuo] {
+            color: #ccc;
+            text-decoration: none;
+        }

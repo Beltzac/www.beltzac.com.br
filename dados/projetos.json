@@ -1,0 +1,182 @@
+﻿[
+  {
+    "Id": "1",
+    "Nome": "Um edifício residencial moderno",
+    "Autores": [ "Thalita Neres" ],
+    "Genero": "Arquitetura Residencial",
+    "Editora": "Arquitetura Moderna",
+    "Ano": "2020",
+    "ImagemLista": "https://via.placeholder.com/150x200/1",
+    "DescricaoLista": "Descubra um projeto inovador de edifício residencial moderno.",
+    "Detalhes": [
+      {
+        "Imagem": "https://via.placeholder.com/350x500/1",
+        "Texto": "Este edifício residencial apresenta um design moderno e elegante, com amplas janelas e espaços abertos."
+      },
+      {
+        "Imagem": "https://via.placeholder.com/350x500/FF5733/FFFFFF/1",
+        "Texto": "O projeto visa criar um ambiente acolhedor e funcional para os moradores, com áreas comuns bem planejadas e espaços privativos confortáveis."
+      }
+    ],
+    "Downloads": [
+      {
+        "Descricao": "Planta Baixa",
+        "Arquivo": "planta_baixa_edificio_residencial.pdf"
+      },
+      {
+        "Descricao": "Fachada",
+        "Arquivo": "fachada_edificio_residencial.pdf"
+      }
+    ]
+  },
+  {
+    "Id": "2",
+    "Nome": "Uma cabana aconchegante para férias",
+    "Autores": [ "Thalita Neres" ],
+    "Genero": "Arquitetura de Cabanas",
+    "Editora": "Cabanas Aconchegantes",
+    "Ano": "2019",
+    "ImagemLista": "https://via.placeholder.com/150x200/2",
+    "DescricaoLista": "Explore o design desta cabana aconchegante, ideal para férias relaxantes.",
+    "Detalhes": [
+      {
+        "Imagem": "https://via.placeholder.com/350x500/2",
+        "Texto": "Esta cabana de madeira oferece um ambiente acolhedor e tranquilo, com um design que integra perfeitamente a natureza ao redor."
+      },
+      {
+        "Imagem": "https://via.placeholder.com/350x500/FF5733/FFFFFF/2",
+        "Texto": "Aproveite a lareira e a vista panorâmica da floresta, enquanto passa momentos relaxantes nesta cabana aconchegante."
+      }
+    ],
+    "Downloads": [
+      {
+        "Descricao": "Planta Baixa",
+        "Arquivo": "planta_baixa_cabana.pdf"
+      },
+      {
+        "Descricao": "Fachada",
+        "Arquivo": "fachada_cabana.pdf"
+      }
+    ]
+  },
+  {
+    "Id": "3",
+    "Nome": "Um edifício de escritórios contemporâneo",
+    "Autores": [ "Thalita Neres" ],
+    "Genero": "Arquitetura Comercial",
+    "Editora": "Escritórios Contemporâneos",
+    "Ano": "2021",
+    "ImagemLista": "https://via.placeholder.com/150x200/3",
+    "DescricaoLista": "Conheça um edifício de escritórios contemporâneo, projetado para inspirar produtividade e criatividade.",
+    "Detalhes": [
+      {
+        "Imagem": "https://via.placeholder.com/350x500/3",
+        "Texto": "Este edifício de escritórios apresenta um design contemporâneo e funcional, com espaços de trabalho flexíveis e áreas de convivência."
+      },
+      {
+        "Imagem": "https://via.placeholder.com/350x500/FF5733/FFFFFF/3",
+        "Texto": "O projeto busca promover a colaboração e o bem-estar dos funcionários, através de espaços abertos, iluminação natural e áreas verdes."
+      }
+    ],
+    "Downloads": [
+      {
+        "Descricao": "Planta Baixa",
+        "Arquivo": "planta_baixa_escritorio.pdf"
+      },
+      {
+        "Descricao": "Fachada",
+        "Arquivo": "fachada_escritorio.pdf"
+      }
+    ]
+  },
+  {
+    "Id": "4",
+    "Nome": "Uma cafeteria minimalista",
+    "Autores": [ "Thalita Neres" ],
+    "Genero": "Arquitetura de Cafeterias",
+    "Editora": "Cafeterias Modernas",
+    "Ano": "2020",
+    "ImagemLista": "https://via.placeholder.com/150x200/4",
+    "DescricaoLista": "Descubra o design elegante de uma cafeteria minimalista, onde o café é o protagonista.",
+    "Detalhes": [
+      {
+        "Imagem": "https://via.placeholder.com/350x500/4",
+        "Texto": "Esta cafeteria minimalista combina linhas simples e materiais naturais para criar um ambiente acolhedor e sofisticado."
+      },
+      {
+        "Imagem": "https://via.placeholder.com/350x500/FF5733/FFFFFF/4",
+        "Texto": "O espaço é projetado para oferecer uma experiência única e relaxante, onde os clientes podem apreciar o aroma e o sabor do café."
+      }
+    ],
+    "Downloads": [
+      {
+        "Descricao": "Planta Baixa",
+        "Arquivo": "planta_baixa_cafeteria.pdf"
+      },
+      {
+        "Descricao": "Fachada",
+        "Arquivo": "fachada_cafeteria.pdf"
+      }
+    ]
+  },
+  {
+    "Id": "5",
+    "Nome": "Um parque urbano sustentável",
+    "Autores": [ "Thalita Neres" ],
+    "Genero": "Arquitetura Paisagística",
+    "Editora": "Parques Urbanos",
+    "Ano": "2018",
+    "ImagemLista": "https://via.placeholder.com/150x200/5",
+    "DescricaoLista": "Explore o projeto de um parque urbano sustentável, projetado para harmonizar natureza e vida urbana.",
+    "Detalhes": [
+      {
+        "Imagem": "https://via.placeholder.com/350x500/5",
+        "Texto": "Este parque urbano sustentável incorpora soluções ecológicas e inovadoras para promover a convivência entre a natureza e os moradores da cidade."
+      },
+      {
+        "Imagem": "https://via.placeholder.com/350x500/FF5733/FFFFFF/5",
+        "Texto": "O projeto inclui áreas de lazer, espaços para atividades físicas e elementos sustentáveis, como hortas comunitárias e sistemas de captação de água da chuva."
+      }
+    ],
+    "Downloads": [
+      {
+        "Descricao": "Planta Baixa",
+        "Arquivo": "planta_baixa_parque_urbano.pdf"
+      },
+      {
+        "Descricao": "Fachada",
+        "Arquivo": "fachada_parque_urbano.pdf"
+      }
+    ]
+  },
+  {
+    "Id": "6",
+    "Nome": "Um elegante hotel boutique",
+    "Autores": [ "Thalita Neres" ],
+    "Genero": "Arquitetura Hoteleira",
+    "Editora": "Hotéis Boutique",
+    "Ano": "2020",
+    "ImagemLista": "https://via.placeholder.com/150x200/6",
+    "DescricaoLista": "Conheça um elegante hotel boutique, onde o design e o conforto proporcionam uma experiência inesquecível.",
+    "Detalhes": [
+      {
+        "Imagem": "https://via.placeholder.com/350x500/6",
+        "Texto": "Este hotel boutique combina elementos clássicos e contemporâneos para criar um ambiente sofisticado e acolhedor para os hóspedes."
+      },
+      {
+        "Imagem": "https://via.placeholder.com/350x500/FF5733/FFFFFF/6",
+        "Texto": "Com quartos luxuosos, áreas comuns elegantes e um atendimento personalizado, este hotel boutique oferece uma experiência única e memorável."
+      }
+    ],
+    "Downloads": [
+      {
+        "Descricao": "Planta Baixa",
+        "Arquivo": "planta_baixa_hotel_boutique.pdf"
+      },
+      {
+        "Descricao": "Fachada",
+        "Arquivo": "fachada_hotel_boutique.pdf"
+      }
+    ]
+  }
+]

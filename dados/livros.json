@@ -1,0 +1,62 @@
+﻿[
+  {
+    "Id": "1",
+    "Nome": "As Aventuras de Coturno, o Gato",
+    "Autores": [ "Thalita Neres" ],
+    "Genero": "Ficção Infantojuvenil",
+    "Editora": "Editora Felina",
+    "Ano": "2022",
+    "ImagemLista": "https://via.placeholder.com/150x200",
+    "DescricaoLista": "Junte-se a Coturno e seus amigos em uma jornada inesquecível!",
+    "Detalhes": [
+      {
+        "Imagem": "https://via.placeholder.com/350x500",
+        "Texto": "Coturno é um gato extraordinário com um coração cheio de curiosidade."
+      },
+      {
+        "Imagem": "https://via.placeholder.com/350x500/FF5733/FFFFFF",
+        "Texto": "Através das aventuras de Coturno, aprendemos lições essenciais sobre amizade, coragem e a importância de ser fiel a si mesmo."
+      }
+    ],
+    "Downloads": [
+      {
+        "Descricao": "Capítulo 1 - O início da jornada",
+        "Arquivo": "capitulo1.pdf"
+      },
+      {
+        "Descricao": "Capítulo 2 - Novos amigos",
+        "Arquivo": "capitulo2.pdf"
+      }
+    ]
+  },
+  {
+    "Id": "2",
+    "Nome": "O Mistério da Casa na Colina",
+    "Autores": [ "Thalita Neres" ],
+    "Genero": "Suspense",
+    "Editora": "Editora Sombria",
+    "Ano": "2021",
+    "ImagemLista": "https://via.placeholder.com/150x200/2",
+    "DescricaoLista": "Desvende os segredos ocultos nesta eletrizante história de suspense!",
+    "Detalhes": [
+      {
+        "Imagem": "https://via.placeholder.com/350x500/2",
+        "Texto": "Quando Pedro e sua família se mudam para uma casa antiga e misteriosa, eles começam a descobrir que nem tudo é o que parece."
+      },
+      {
+        "Imagem": "https://via.placeholder.com/350x500/FF5733/FFFFFF/2",
+        "Texto": "Acompanhe Pedro em sua busca para desvendar os segredos da Casa na Colina e descobrir a verdade por trás das sombras."
+      }
+    ],
+    "Downloads": [
+      {
+        "Descricao": "Capítulo 1 - A Mudança",
+        "Arquivo": "capitulo1_casa_na_colina.pdf"
+      },
+      {
+        "Descricao": "Capítulo 2 - Suspeitas",
+        "Arquivo": "capitulo2_casa_na_colina.pdf"
+      }
+    ]
+  }
+]
