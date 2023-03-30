@@ -7,7 +7,7 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "br.com.thalitaneres.dll": "sha256-p0piYk\/51f\/e02jeAG9mBB5vnlrjmfCJirZbv2RPLN0=",
+      "br.com.thalitaneres.dll": "sha256-WedA5\/kXqO03CDq7swgCzhXaafdB2NSaU\/5RhA6pWpg=",
       "Microsoft.AspNetCore.Components.dll": "sha256-AV3Z4voCV\/oK1XpyazMF\/fVHVAJSRoQyk0pmJK6CeyQ=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-CQuaWrSf9O4PtndknsO4wfnA0I\/ky0YyY8JXhqrKtcc=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-jZLGUNi\/PCnw9q3fv9CISkfeqzfFrPm143LIAsZYEO4=",
